@@ -9,7 +9,7 @@
 
 **Modern, kullanıcı dostu QR kod tarama ve oluşturma uygulaması**
 
-[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Kullanım](#-kullanım) • [Teknolojiler](#-teknolojiler) • [Ekran Görüntüleri](#-ekran-görüntüleri)
+[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Kullanım](#-kullanım) • [Teknolojiler](#-teknolojiler)
 
 </div>
 
@@ -164,25 +164,6 @@ flutter build ios --release
 - `url_launcher` - URL açma
 - `flutter_contacts` - Kişi yönetimi
 
-## 📱 Ekran Görüntüleri
-
-<!-- Ekran görüntüleri buraya eklenecek -->
-<div align="center">
-
-### Ana Ekran
-![Ana Ekran](screenshots/home.png)
-
-### QR Kod Tarama
-![Tarama](screenshots/scanner.png)
-
-### QR Kod Oluşturma
-![Oluşturma](screenshots/create.png)
-
-### Geçmiş
-![Geçmiş](screenshots/history.png)
-
-</div>
-
 ## 📁 Proje Yapısı
 
 ```
@@ -218,32 +199,12 @@ lib/
 - Güvenli kimlik doğrulama
 - Hassas veriler şifrelenir
 
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen:
-
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request açın
-
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
-## 👨‍💻 Geliştirici
 
 **Mehmet Çayır**
 
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-- Email: mehmet@example.com
+- GitHub: [@kullaniciadi](https://github.com/mehmetcyr0)
+- Email: mehmet.cyr38@gmail.com
 
-## 🙏 Teşekkürler
-
-- Flutter ekibine harika framework için
-- Supabase ekibine backend çözümü için
-- Tüm açık kaynak paket geliştiricilerine
 
 ## 📊 İstatistikler
 
@@ -256,7 +217,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 <div align="center">
 
-**⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
 
 Made with ❤️ in 2024
 
