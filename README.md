@@ -75,7 +75,7 @@ QRay, Flutter ile geliştirilmiş modern bir QR kod yönetim uygulamasıdır. QR
 
 1. **Projeyi klonlayın**
 ```bash
-git clone https://github.com/kullaniciadi/qray.git
+git clone https://github.com/mehmetcyr0/QRay.git
 cd qray
 ```
 
@@ -247,10 +247,10 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📊 İstatistikler
 
-![GitHub stars](https://img.shields.io/github/stars/kullaniciadi/qray?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kullaniciadi/qray?style=social)
-![GitHub issues](https://img.shields.io/github/issues/kullaniciadi/qray)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kullaniciadi/qray)
+![GitHub stars](https://img.shields.io/github/stars/mehmetcyr0/QRay?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mehmetcyr0/QRay?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mehmetcyr0/QRay)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mehmetcyr0/QRay)
 
 ---
 
