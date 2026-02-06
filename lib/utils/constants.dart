@@ -1,8 +1,7 @@
 class Constants {
   // Supabase Bağlantı Bilgileri
-  static const String supabaseUrl = 'https://fhkkuusiyhwgpjetevbj.supabase.co';
-  static const String supabaseAnonKey =
-      'sb_publishable_I4H3-G79uUJPVUfAfdy5vQ_-glt2RWZ';
+   static const String supabaseUrl = 'YOUR_SUPABASE_URL';
+  static const String supabaseAnonKey = 'YOUR_SUPABASE_ANON_KEY';
 
   // Veritabanı Tabloları
   static const String qrCodesTable = 'qr_codes';
