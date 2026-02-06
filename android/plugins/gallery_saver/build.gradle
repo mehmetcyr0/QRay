@@ -1,0 +1,4 @@
+android {
+    namespace "carnegietechnologies.gallery_saver"
+    // ... diğer ayarlar ...
+} 
