@@ -9,7 +9,7 @@
 
 **Modern, kullanıcı dostu QR kod tarama ve oluşturma uygulaması**
 
-[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Kullanım](#-kullanım) • [Teknolojiler](#-teknolojiler) 
+[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Kullanım](#-kullanım) • [Teknolojiler](#-teknolojiler)
 
 </div>
 
@@ -75,7 +75,7 @@ QRay, Flutter ile geliştirilmiş modern bir QR kod yönetim uygulamasıdır. QR
 
 1. **Projeyi klonlayın**
 ```bash
-git clone https://github.com/kullaniciadi/qray.git
+git clone https://github.com/mehmetcyr0/QRay.git
 cd qray
 ```
 
@@ -164,7 +164,6 @@ flutter build ios --release
 - `url_launcher` - URL açma
 - `flutter_contacts` - Kişi yönetimi
 
-
 ## 📁 Proje Yapısı
 
 ```
@@ -201,26 +200,23 @@ lib/
 - Hassas veriler şifrelenir
 
 
-## 👨‍💻 Geliştirici
-
 **Mehmet Çayır**
 
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-- Email: mehmet@example.com
+- GitHub: [@kullaniciadi](https://github.com/mehmetcyr0)
+- Email: mehmet.cyr38@gmail.com
 
 
 ## 📊 İstatistikler
 
-![GitHub stars](https://img.shields.io/github/stars/kullaniciadi/qray?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kullaniciadi/qray?style=social)
-![GitHub issues](https://img.shields.io/github/issues/kullaniciadi/qray)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kullaniciadi/qray)
+![GitHub stars](https://img.shields.io/github/stars/mehmetcyr0/QRay?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mehmetcyr0/QRay?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mehmetcyr0/QRay)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mehmetcyr0/QRay)
 
 ---
 
 <div align="center">
 
-**⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
 
 Made with ❤️ in 2024
 
